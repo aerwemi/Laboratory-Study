@@ -3,7 +3,8 @@ Training Data Set
 
 study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. We Analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
-Data Summary:
+Data file Summary:
+
 clinicaltrial_data.csv file with 'Mouse ID'	'Timepoint'	'Tumor Volume (mm3)'	'Metastatic Sites' cls.
 mouse_drug_data.csv file with 'Mouse ID' and 'Drug' used for the treatment cls.   
 
